@@ -8,7 +8,7 @@ But the dataset is available on the internet in kaggle. Link :  https://www.kagg
   
 Requirements:  
   
-  Mentioned in the requirements.txt  
+   We have to install necessary libraries using pip command which are namely keras,tensorflow,numpy,sklearn and execute he code in jupyter notebook.
   
 Anoher requirment is GitBash (If you want to download the repository to run the code)  
   
@@ -18,7 +18,7 @@ File Descriptions:
   
 Digit Recognition.ipynb - This file loads the data, preprocesses the image into Non linear Model readable image. The SVM layer model has  2 layers - RGF AND POLY. The input is taken as an image and output is given as a label from (0-9). It can also predict a handwritten image drawn in Paint and give output as a label.  
   
-  The webapp is made with Gradio, which is an open source python library which lets us create customizable UI components. 
+  
   
 Steps of Execution:
 
